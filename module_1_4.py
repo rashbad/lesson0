@@ -1,6 +1,5 @@
-my_string = input('Город проживания: ')
+my_string = input('Ваша специальность: ')  # Таможенное дело
 print(len(my_string))
-my_string = 'Город проживания: '
 print(my_string.upper())
 print(my_string.lower())
 print(my_string.replace(' ', ''))
